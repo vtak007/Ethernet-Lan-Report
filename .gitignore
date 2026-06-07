@@ -1,0 +1,10 @@
+# Generated report output
+lan-report-*.html
+wlan-report-*.html
+
+# Temp files written by editors / Claude Code
+*.tmp.*
+
+# OS
+.DS_Store
+Thumbs.db
