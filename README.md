@@ -89,4 +89,3 @@ Click any event dot to jump to its entry in the session list. Hover to see a sum
 | `Generate-LanReport.py` | Main script — collects data and renders the HTML report |
 | `lan-report-2026-05-19.html` | Sample generated LAN report |
 | `wlan-report-2026-05-19.html` | Sample Windows built-in WLAN report (reference) |
-| `Windows has a built-in Wi-Fi report...pdf` | Reference article about the Windows WLAN report feature |
